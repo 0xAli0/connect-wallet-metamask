@@ -1,5 +1,5 @@
 # login-metamask
-Basic wallet login for Ethereum or other EVM blockchains
+Basic wallet connect for Ethereum or other EVM blockchains
 
 🪂You can support me🪂
 
